@@ -19,7 +19,7 @@ writing-style differences between outlets, not pure truthfulness. This is a know
 issue with this dataset and is stated openly.
 
 ## Live App
-[Streamlit link — add after deploying]
+https://fake-news-detector12-qudufwtsfsnbmp5dftcekl.streamlit.app/
 
 ## Demo Video
 [Video link — add after recording]
