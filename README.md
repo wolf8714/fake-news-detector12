@@ -7,7 +7,7 @@ Fake news spreads fast and causes harm. This app flags articles that look fake.
 
 ## Dataset
 ISOT Fake and Real News dataset (Kaggle) — 44,898 articles (23,481 fake, 21,417 real).
-
+(https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 ## Approach
 - Text cleaning: removed source tags (e.g. "Reuters") that caused data leakage.
 - Features: TF-IDF (top 5,000 words).
@@ -19,10 +19,10 @@ writing-style differences between outlets, not pure truthfulness. This is a know
 issue with this dataset and is stated openly.
 
 ## Live App
-https://fake-news-detector12-qudufwtsfsnbmp5dftcekl.streamlit.app/
+(https://fake-news-detector12-qudufwtsfsnbmp5dftcekl.streamlit.app/)
 
 ## Demo Video
-[Video link — add after recording]
+(https://drive.google.com/file/d/162IoWoyXnuj59IPIqPSaN-XHTn9SCCb8/view?usp=sharing)
 
 ## How to Run
 1. `pip install -r requirements.txt`
